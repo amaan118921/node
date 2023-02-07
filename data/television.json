@@ -1,0 +1,50 @@
+{
+    "t1": {
+        "id": "Redmi 80 cm (32 inches) HD Ready Smart LED TV | L32M6-RA (Black) (2021 Model) | With Android 11",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HcZHyEsTL._SL1500_.jpg",
+        "price": "₹14,998.00",
+        "type": "television"
+      },
+      "t2": {
+        "id": "OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black) (2020 Model)",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vZypjNkPS._SL1500_.jpg",
+        "price": "₹16,499.00",
+        "type": "television"
+      },
+      "t3": {
+        "id ": "eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)",
+        "imageUrl": "https://m.media-amazon.com/images/I/719P4NlF58L._SL1500_.jpg",
+        "price": "₹7,250.00",
+        "type": "television"
+      },
+      "t4": {
+        "id": "Mi 80 cm (32 inches) HD Ready Android Smart LED TV 4A PRO | L32M5-AL (Black)",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Z+l05eSIS._SL1188_.jpg",
+        "price": "₹16,498.00",
+        "type": "television"
+      },
+      "t5": {
+        "id": "Acer 80 cm (32 inches) Boundless series HD Ready Android Smart LED TV AR32AP2841HDFL (Black) (2021 Model) | With Frameless Design",
+        "imageUrl": "https://m.media-amazon.com/images/I/81kTY2YiPtL._SL1500_.jpg",
+        "price": "₹13,999.00 ",
+        "type": "television"
+      },
+      "t6": {
+        "id": "LG 127 cm (50 inches) 4K Ultra HD Smart LED TV 50UP7500PTZ (Rocky Black) (2021 Model)",
+        "imageUrl": "https://m.media-amazon.com/images/I/61H02HVTCzL._SL1437_.jpg",
+        "price": "₹46,999.00",
+        "type": "television"
+      },
+      "t7": {
+        "id": "Samsung 138 cm (55 inches) Crystal 4K Series Ultra HD Smart LED TV UA55AUE60AKLXL (Black) (2021 Model)",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GwJAhftvS._SL1500_.jpg",
+        "price": "₹50,990.00",
+        "type": "television"
+      },
+      "t8": {
+        "id": "TCL 100 cm (40 inches) Full HD Certified Android Smart LED TV 40S6500FS (Black) (2020 Model)",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WFfsR5sRL._SL1500_.jpg",
+        "price": "₹22,000.00",
+        "type": "television"
+      }
+}

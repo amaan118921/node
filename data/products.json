@@ -1,0 +1,393 @@
+[{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014570"
+  },
+  "id": "Redmi 80 cm (32 inches) HD Ready Smart LED TV | L32M6-RA (Black) (2021 Model) | With Android 11",
+  "imageUrl": "https://m.media-amazon.com/images/I/71HcZHyEsTL._SL1500_.jpg",
+  "price": "₹14,998.00",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014571"
+  },
+  "id": "OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black) (2020 Model)",
+  "imageUrl": "https://m.media-amazon.com/images/I/71vZypjNkPS._SL1500_.jpg",
+  "price": "₹16,499.00",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014572"
+  },
+  "id ": "eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)",
+  "imageUrl": "https://m.media-amazon.com/images/I/719P4NlF58L._SL1500_.jpg",
+  "price": "₹7,250.00",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014573"
+  },
+  "id": "Mi 80 cm (32 inches) HD Ready Android Smart LED TV 4A PRO | L32M5-AL (Black)",
+  "imageUrl": "https://m.media-amazon.com/images/I/71Z+l05eSIS._SL1188_.jpg",
+  "price": "₹16,498.00",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014574"
+  },
+  "id": "Acer 80 cm (32 inches) Boundless series HD Ready Android Smart LED TV AR32AP2841HDFL (Black) (2021 Model) | With Frameless Design",
+  "imageUrl": "https://m.media-amazon.com/images/I/81kTY2YiPtL._SL1500_.jpg",
+  "price": "₹13,999.00 ",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014575"
+  },
+  "id": "LG 127 cm (50 inches) 4K Ultra HD Smart LED TV 50UP7500PTZ (Rocky Black) (2021 Model)",
+  "imageUrl": "https://m.media-amazon.com/images/I/61H02HVTCzL._SL1437_.jpg",
+  "price": "₹46,999.00",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014576"
+  },
+  "id": "Samsung 138 cm (55 inches) Crystal 4K Series Ultra HD Smart LED TV UA55AUE60AKLXL (Black) (2021 Model)",
+  "imageUrl": "https://m.media-amazon.com/images/I/61GwJAhftvS._SL1500_.jpg",
+  "price": "₹50,990.00",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e2992d0b1836d836014577"
+  },
+  "id": "TCL 100 cm (40 inches) Full HD Certified Android Smart LED TV 40S6500FS (Black) (2020 Model)",
+  "imageUrl": "https://m.media-amazon.com/images/I/71WFfsR5sRL._SL1500_.jpg",
+  "price": "₹22,000.00",
+  "type": "television"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014578"
+  },
+  "id": "realme C11 2021 (Cool Blue, 32 GB)  (2 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kqjtd3k0/mobile/o/4/x/c11-2021-rmx3231-realme-original-imag4j4yrdt7d9cj.jpeg?q=70",
+  "price": "7,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014579"
+  },
+  "id": "realme GT NEO 2 (NEO Green, 128 GB)  (8 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kumzpu80/mobile/y/t/f/gt-neo2-5g-rmx3370-realme-original-imag7pugufru4spn.jpeg?q=70",
+  "price": "31,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601457a"
+  },
+  "id": "POCO C31 (Royal Blue, 64 GB)  (4 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/ku4ezrk0/mobile/k/i/p/c31-mzb0a0jin-poco-original-imag7bzqp8pvwbaf.jpeg?q=70",
+  "price": "₹8,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601457b"
+  },
+  "id": "POCO M3 Pro 5G (Cool Blue, 64 GB)  (4 GB RAM)",
+  "imageUrl": "POCO M3 Pro 5G (Cool Blue, 64 GB)  (4 GB RAM)",
+  "price": "₹13,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601457c"
+  },
+  "id": "POCO M4 Pro 5G (Power Black, 128 GB)  (8 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kzn17680/mobile/a/3/e/-original-imagbhdrqhakqnhf.jpeg?q=70",
+  "price": "₹18,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601457d"
+  },
+  "id": "POCO M3 Pro 5G (Cool Blue, 128 GB)  (6 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kpmy8i80/mobile/v/6/1/m3-pro-5g-mzb0954in-poco-original-imag3th5ggub6c3f.jpeg?q=70",
+  "price": "₹15,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601457e"
+  },
+  "id": "POCO F3 GT (Predator Black, 128 GB)  (8 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/krf91u80/mobile/i/f/m/f3-gt-mzb09huin-poco-original-imag57hec6wkrk77.jpeg?q=70",
+  "price": "₹26,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601457f"
+  },
+  "id": "POCO M4 Pro 5G (Yellow, 128 GB)  (6 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kzn17680/mobile/c/i/q/-original-imagbhdrkygggghf.jpeg?q=70",
+  "price": "₹16,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014580"
+  },
+  "id": "POCO X3 Pro (Steel Blue, 128 GB)  (6 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kr9jafk0/mobile/m/m/y/x3-pro-mzb08t9in-poco-original-imag52znesm3hemf.jpeg?q=70",
+  "price": "₹22,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014581"
+  },
+  "id": "POCO M2 (Brick Red, 128 GB)  (6 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kerfl3k0/mobile/a/k/q/poco-m2-mzb9921in-original-imafvdpvfhdbgqhg.jpeg?q=70",
+  "price": "₹11,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014582"
+  },
+  "id": "POCO F1 (Graphite Black, 256 GB)  (8 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/jl2m7ww0/mobile/s/f/e/xiaomi-pocophone-f1-na-original-imaf8afgrdbqtsta.jpeg?q=70",
+  "price": "₹30,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014583"
+  },
+  "id": "realme C25_Y (Metal Grey, 64 GB)  (4 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kwgpz0w0/mobile/c/6/l/-original-imag95yfawvtzbdw.jpeg?q=70",
+  "price": "10,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014584"
+  },
+  "id": "POCO M3 (Power Black, 64 GB)  (6 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kklhbbk0/mobile/m/s/f/m3-mzb0879in-poco-original-imafzxf686qtxq2x.jpeg?q=70",
+  "price": "₹11,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014585"
+  },
+  "id": "realme C21Y (Cross Black, 32 GB)  (3 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q=70",
+  "price": "9,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014586"
+  },
+  "id": "realme Narzo 50A (Oxygen Green, 64 GB)  (4 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/ktx9si80/mobile/q/a/c/narzo-50a-rmx3430-realme-original-imag75kybaer8scz.jpeg?q=70",
+  "price": "11,549",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014587"
+  },
+  "id": "realme Narzo 50i (Mint Green, 32 GB)  (2 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/ktx9si80/mobile/s/o/j/narzo-50i-rmx3231-realme-original-imag75h86v5thnzy.jpeg?q=70",
+  "price": "7,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014588"
+  },
+  "id": "realme 8 (Cyber Black, 128 GB)  (6 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kmmcrrk0/mobile/4/g/a/8-rmx3085-realme-original-imagfgpfdkyc29zc.jpeg?q=70",
+  "price": "16,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d836014589"
+  },
+  "id": "realme Narzo 30 (Racing Blue, 128 GB)  (6 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kq18n0w0/mobile/0/l/w/narzo-30-rmx2156-realme-original-imag45yhptdgu4qf.jpeg?q=70",
+  "price": "15,499",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601458a"
+  },
+  "id": "realme C2 (Diamond Sapphire, 32 GB)  (3 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/9/4/c2-32-c-rmx1941-realme-3-original-imafhfy4wk6ykfsd.jpeg?q=70",
+  "price": "8,999",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299370b1836d83601458b"
+  },
+  "id": "realme 8s 5G (Universe Purple, 128 GB)  (8 GB RAM)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/ktbu6q80/mobile/f/s/e/8s-5g-rmx3381-realme-original-imag6zhgra57dtqe.jpeg?q=70",
+  "price": "20,049",
+  "type": "mobile"
+},{
+  "_id": {
+    "$oid": "63e299860b1836d83601458c"
+  },
+  "id": "HP Pavilion Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home) 14-ec0037AU Thin and Light Laptop  (14 inch, Natural Silver, 1.41 kg, With MS Office)",
+  "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kv6zvrk0/computer/5/n/1/14-ec0033au-thin-and-light-laptop-hp-original-imag85htpbzcnsj5.jpeg?q=70",
+  "price": "61,490",
+  "type": "laptop"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d83601458d"
+  },
+  "id": "Solid Men Grey Track Pants",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/ku5ufm80/track-pant/q/4/x/m-ll-dg-m-heradawn-original-imag7cpjbm33agyn.jpeg?q=50",
+  "price": "₹649",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d83601458e"
+  },
+  "id": "Skinny Fit Men Blue Cotton Lycra Blend Trousers",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kflftzk0-0/trouser/u/7/t/36-hltr004071-highlander-original-imafwyf7dahvbngd.jpeg?q=50",
+  "price": "₹749",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d83601458f"
+  },
+  "id": "Slim Men Grey Jeans",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/k70spzk0/jean/t/j/d/30-hljn000687-highlander-original-imafpchx9pym6df8.jpeg?q=50",
+  "price": "₹649",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d836014590"
+  },
+  "id": " Color Block Men Blue, Black Track Pants",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kly2aa80/track-pant/g/n/d/m-trackpant9013-vitaan-original-imagyydmyng5gzce.jpeg?q=50",
+  "price": "₹399",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d836014591"
+  },
+  "id": "Solid Men Blue, Grey Track Pants",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kwjkuq80/track-pant/g/k/d/s-solid-men-blue-and-dark-grey-track-pant-foxter-original-imag97f9mus4nzn7.jpeg?q=50",
+  "price": "₹399",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d836014592"
+  },
+  "id": "Solid Men Multicolor Track Pants",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/ky3b0y80/track-pant/y/u/h/l-solid-men-black-rama-track-pants-foxter-original-imagaekzhjypkqcg.jpeg?q=50",
+  "price": "₹399",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d836014593"
+  },
+  "id": "Slim Men Blue Jeans",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/k70spzk0/jean/w/f/u/30-hljn000690-highlander-original-imafpchxfs6zzjyh.jpeg?q=50",
+  "price": "₹549",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d836014594"
+  },
+  "id": "Solid Men Light Blue Track Pants",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kxqg2a80/track-pant/u/0/s/m-solid-men-rama-track-pants-foxter-original-imaga4hhhnfskakh.jpeg?q=50",
+  "price": "₹229",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d836014595"
+  },
+  "id": "Solid Men Black, Blue Track Pants",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kzblocw0/track-pant/w/j/4/s-combo-tr1-vebnor-original-imagbcrupkh6s8yr.jpeg?q=50",
+  "price": "₹399",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e2998d0b1836d836014596"
+  },
+  "id": "Solid Men Beige Track Pants",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kf2v3ww0/track-pant/x/a/c/m-ghostwhite3113-mountain-colours-original-imafvmd7tgvex3rq.jpeg?q=50",
+  "price": "₹785",
+  "type": "menbottomwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d836014597"
+  },
+  "id": "Men Slim Fit Printed Cut Away Collar Casual Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/880/1056/km2clu80/shirt/x/6/n/s-hlsh012509-highlander-original-imagffyzf9ewdfpb.jpeg?q=50",
+  "price": "₹999",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d836014598"
+  },
+  "id": "Color Block Men Hooded Neck White, Red, Black T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kkec4280/t-shirt/b/m/i/l-t345-blwhrd-new-eyebogler-original-imafzr4f7nxecr44.jpeg?q=50",
+  "price": "₹549",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d836014599"
+  },
+  "id": "Solid Men Mandarin Collar Brown, Black T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kyrlifk0/t-shirt/2/a/v/xxl-tbrblhenful-d37-tripr-original-imagax9ucbwhf7wn.jpeg?q=50",
+  "price": "₹249",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d83601459a"
+  },
+  "id": "Solid Men Mandarin Collar Brown, Black T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kyrlifk0/t-shirt/2/a/v/xxl-tbrblhenful-d37-tripr-original-imagax9ucbwhf7wn.jpeg?q=50",
+  "price": "₹249",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d83601459b"
+  },
+  "id": "Striped Men Hooded Neck Red, Black T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50",
+  "price": "₹147",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d83601459c"
+  },
+  "id": "Men Slim Fit Printed Casual Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kbpeoi80/shirt/y/0/t/m-hlsh011900-highlander-original-imafszkegduhxqxw.jpeg?q=50",
+  "price": "₹429",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d83601459d"
+  },
+  "id": "Color Block Men Round Neck Grey T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kkfrjww0/t-shirt/h/1/t/l-t312-cgblwh-new-eyebogler-original-imafzs5hrjgzsfpr.jpeg?q=50",
+  "price": "₹245",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d83601459e"
+  },
+  "id": "Striped Men Round Neck Maroon, Grey T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/keykscw0-0/t-shirt/l/d/q/3xl-bmrgyrnful-z12-blive-original-imafvgzkyjghf7ba.jpeg?q=50",
+  "price": "₹249",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d83601459f"
+  },
+  "id": "Men Slim Fit Printed Cut Away Collar Casual Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kufuikw0/shirt/e/w/2/s-hlsh013035-highlander-original-imag7kcj5knqmhvz.jpeg?q=50",
+  "price": "₹248",
+  "type": "mentopwear"
+},{
+  "_id": {
+    "$oid": "63e299940b1836d8360145a0"
+  },
+  "id": "Solid Men Polo Neck Red T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/714/857/kuzuoi80/t-shirt/y/j/p/m-lpkpmrgpb50282-louis-philippe-original-imag7zyqzfmhffen.jpeg?q=50",
+  "price": "₹305",
+  "type": "mentopwear"
+}]

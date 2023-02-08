@@ -8,7 +8,8 @@ router.get('/:para', async (req, res) => {
      try {
           var query = {type: req.params.para}
           const products = await product.find(query)
-          res.json(products)
+          var json = {'dataArray': products}
+          res.send(json)
      } catch(err) {
           res.send('error' + err)
      }

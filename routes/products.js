@@ -4,9 +4,9 @@ const router = express.Router()
 const product = require('../models/Product')
 const func = require('../database/mongo')
 
-router.get('/:para', async (req, res) => {
+router.get('/:product', async (req, res) => {
      try {
-          var query = {type: req.params.para}
+          var query = {type: req.params.product}
           const products = await product.find(query)
           var json = {'dataArray': products}
           res.send(json)
